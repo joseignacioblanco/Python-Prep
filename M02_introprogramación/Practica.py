@@ -3,7 +3,7 @@
 
 # A partir del próximo módulo: M03_variablesydatos vas a tener actividades para realizar.
 
-print('Hola Mundo!')
+print('mom dont go!')
 a = 20
 while a > 0:
     print(a)
